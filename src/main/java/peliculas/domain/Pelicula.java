@@ -1,7 +1,7 @@
 package peliculas.domain;
 
 public class Pelicula {
-
+// descripcion de pelicula
     String nombre;
 
     public Pelicula(String nombre) {
